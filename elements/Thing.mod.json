@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "x",
+    "customModelName": "Normal",
+    "name": "Thing",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 60,
+    "enchantability": 44,
+    "useDuration": 65,
+    "toolType": 1.1,
+    "damageCount": 0,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": true,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 20.3,
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

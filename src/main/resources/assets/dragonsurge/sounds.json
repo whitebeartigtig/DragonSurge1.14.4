@@ -1,0 +1,11 @@
+{
+  "testmusic1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dragonsurge:6298079553650688_1",
+        "stream": false
+      }
+    ]
+  }
+}

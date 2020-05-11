@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "darkdragon_head",
+    "enableBody": true,
+    "textureBody": "darkdragon_body",
+    "enableLeggings": true,
+    "textureLeggings": "darkdragon_leggings",
+    "enableBoots": true,
+    "textureBoots": "darkdragon_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "darkdragon",
+    "helmetName": "DarkDragon Helmet",
+    "bodyName": "DarkDragon Chestplate",
+    "leggingsName": "DarkDragon Leggings",
+    "bootsName": "DarkDragon Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 26,
+    "damageValueHelmet": 3,
+    "damageValueBody": 9,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 3,
+    "enchantability": 15,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

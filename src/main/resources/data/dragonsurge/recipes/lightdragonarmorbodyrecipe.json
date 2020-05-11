@@ -1,0 +1,39 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "2": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "3": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "4": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "5": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "6": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "7": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "8": {
+      "item": "dragonsurge:lightdragongem"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:lightdragonarmorbody",
+    "count": 1
+  }
+}

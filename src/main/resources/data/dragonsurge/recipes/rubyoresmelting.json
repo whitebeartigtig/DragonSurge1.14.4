@@ -1,0 +1,11 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "dragonsurge:rubyore"
+  },
+  "result": {
+    "item": "dragonsurge:rubyingot"
+  }
+}

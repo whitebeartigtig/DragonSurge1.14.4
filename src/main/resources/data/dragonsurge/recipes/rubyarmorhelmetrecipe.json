@@ -1,0 +1,29 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "1": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "2": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "3": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "5": {
+      "item": "dragonsurge:rubyingot"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:rubyarmorhelmet",
+    "count": 1
+  }
+}

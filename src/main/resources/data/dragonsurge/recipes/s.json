@@ -1,0 +1,30 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "  5",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_log"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "minecraft:spruce_log"
+    },
+    "5": {
+      "item": "minecraft:gunpowder"
+    },
+    "8": {
+      "item": "dragonsurge:darkdragonoreblock"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:rifle",
+    "count": 1
+  }
+}

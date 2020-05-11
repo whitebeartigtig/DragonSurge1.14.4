@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Dark Dragon Surge Portal Igniter",
+    "igniterTab": {
+      "value": "MISC"
+    },
+    "texture": "wds",
+    "portalTexture": "s",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "desert"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:DarkGrass"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.SMOOTH_SANDSTONE"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:CrudeOil"
+    },
+    "airColor": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": "entity.endermite.death"
+    }
+  }
+}

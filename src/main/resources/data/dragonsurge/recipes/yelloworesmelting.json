@@ -1,0 +1,11 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:smelting",
+  "experience": 1.19,
+  "ingredient": {
+    "item": "dragonsurge:yellowore"
+  },
+  "result": {
+    "item": "dragonsurge:yellowgem"
+  }
+}

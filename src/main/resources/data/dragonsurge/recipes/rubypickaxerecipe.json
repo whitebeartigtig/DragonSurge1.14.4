@@ -1,0 +1,30 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "1": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "2": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:rubypickaxe",
+    "count": 1
+  }
+}

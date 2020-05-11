@@ -1,0 +1,66 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Tropical Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.IRON_ORE"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 4,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG#3"
+    },
+    "treeBranch": {
+      "value": "Blocks.LOG#3"
+    },
+    "treeFruits": {
+      "value": "Blocks.LEAVES2#1"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10027162,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13421569,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 14,
+    "grassPerChunk": 8,
+    "flowersPerChunk": 7,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 4,
+    "gravelPatchesPerChunk": 2,
+    "reedsPerChunk": 2,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.5,
+    "baseHeight": 0.2,
+    "heightVariation": 0.3,
+    "spawnBiome": true,
+    "biomeWeight": 1,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": []
+  }
+}

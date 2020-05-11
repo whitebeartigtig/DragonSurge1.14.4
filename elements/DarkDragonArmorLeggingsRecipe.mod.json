@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      },
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      },
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      },
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      },
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkDragonGem"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkDragonArmor.legs"
+    },
+    "name": "darkdragonarmorleggingsrecipe",
+    "namespace": "mod"
+  }
+}

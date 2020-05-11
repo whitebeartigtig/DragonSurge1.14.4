@@ -1,0 +1,11 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:smelting",
+  "experience": 1.75,
+  "ingredient": {
+    "item": "dragonsurge:blueore"
+  },
+  "result": {
+    "item": "dragonsurge:bluegem"
+  }
+}

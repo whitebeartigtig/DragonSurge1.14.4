@@ -1,0 +1,29 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:bluegem"
+    },
+    "1": {
+      "item": "dragonsurge:bluegem"
+    },
+    "2": {
+      "item": "dragonsurge:bluegem"
+    },
+    "3": {
+      "item": "dragonsurge:bluegem"
+    },
+    "5": {
+      "item": "dragonsurge:bluegem"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:bluearmorhelmet",
+    "count": 1
+  }
+}

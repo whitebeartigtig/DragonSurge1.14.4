@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      },
+      {
+        "value": "CUSTOM:RubyIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RubyOreBlock"
+    },
+    "name": "rubyoreblockrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "1": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "2": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:lightdragonpickaxe",
+    "count": 1
+  }
+}

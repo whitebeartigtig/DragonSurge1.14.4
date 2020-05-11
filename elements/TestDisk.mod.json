@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "blue_gem",
+    "name": "Test Disk",
+    "description": "This is a test",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:testmusic1"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

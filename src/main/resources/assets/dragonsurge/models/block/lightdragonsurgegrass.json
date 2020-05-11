@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragonsurge:blocks/sd-pixilart",
+    "up": "dragonsurge:blocks/s-pixilart",
+    "north": "dragonsurge:blocks/lds-grass-2-pixilart",
+    "east": "dragonsurge:blocks/lds-grass-2-pixilart",
+    "south": "dragonsurge:blocks/lds-grass-2-pixilart",
+    "west": "dragonsurge:blocks/lds-grass-2-pixilart",
+    "particle": "dragonsurge:blocks/sd-pixilart"
+  }
+}

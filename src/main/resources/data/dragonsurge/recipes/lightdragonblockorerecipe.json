@@ -1,0 +1,13 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dragonsurge:lightdragonoreblock"
+    }
+  ],
+  "result": {
+    "item": "dragonsurge:lightdragongem",
+    "count": 9
+  }
+}

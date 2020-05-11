@@ -1,0 +1,39 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "2": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "3": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "4": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "5": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "6": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "7": {
+      "item": "dragonsurge:yellowgem"
+    },
+    "8": {
+      "item": "dragonsurge:yellowgem"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:yellowarmorbody",
+    "count": 1
+  }
+}

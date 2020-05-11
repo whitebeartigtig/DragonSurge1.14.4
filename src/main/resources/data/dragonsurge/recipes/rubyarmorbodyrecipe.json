@@ -1,0 +1,39 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "2": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "3": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "4": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "5": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "6": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "7": {
+      "item": "dragonsurge:rubyingot"
+    },
+    "8": {
+      "item": "dragonsurge:rubyingot"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:rubyarmorbody",
+    "count": 1
+  }
+}

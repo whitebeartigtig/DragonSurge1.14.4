@@ -1,0 +1,20 @@
+{
+  "_fv": 6,
+  "_type": "structure",
+  "definition": {
+    "structure": "darkdragonsurgeportalfixed1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 3,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:DarkDragonSurge"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": []
+  }
+}

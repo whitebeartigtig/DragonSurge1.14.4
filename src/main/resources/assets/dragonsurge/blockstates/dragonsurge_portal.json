@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dragonsurge:block/dragonsurge_portal_ew"
+    },
+    "axis=x": {
+      "model": "dragonsurge:block/dragonsurge_portal_ns"
+    }
+  }
+}

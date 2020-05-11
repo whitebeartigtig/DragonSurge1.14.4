@@ -1,0 +1,39 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:bluegem"
+    },
+    "2": {
+      "item": "dragonsurge:bluegem"
+    },
+    "3": {
+      "item": "dragonsurge:bluegem"
+    },
+    "4": {
+      "item": "dragonsurge:bluegem"
+    },
+    "5": {
+      "item": "dragonsurge:bluegem"
+    },
+    "6": {
+      "item": "dragonsurge:bluegem"
+    },
+    "7": {
+      "item": "dragonsurge:bluegem"
+    },
+    "8": {
+      "item": "dragonsurge:bluegem"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:bluearmorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:smelting",
+  "experience": 1.0499999999999998,
+  "ingredient": {
+    "item": "dragonsurge:lightdragonore"
+  },
+  "result": {
+    "item": "dragonsurge:lightdragongem"
+  }
+}

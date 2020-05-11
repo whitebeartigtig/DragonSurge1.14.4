@@ -1,0 +1,29 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "1": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "2": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "3": {
+      "item": "dragonsurge:lightdragongem"
+    },
+    "5": {
+      "item": "dragonsurge:lightdragongem"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:lightdragonarmorhelmet",
+    "count": 1
+  }
+}

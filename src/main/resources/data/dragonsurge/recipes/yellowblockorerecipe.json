@@ -1,0 +1,13 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dragonsurge:yelloworeblock"
+    }
+  ],
+  "result": {
+    "item": "dragonsurge:yellowgem",
+    "count": 9
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "1": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:darkdragonhoe",
+    "count": 1
+  }
+}

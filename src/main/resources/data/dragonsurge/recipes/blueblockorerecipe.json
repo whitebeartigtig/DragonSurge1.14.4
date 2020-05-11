@@ -1,0 +1,13 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dragonsurge:blueoreblock"
+    }
+  ],
+  "result": {
+    "item": "dragonsurge:bluegem",
+    "count": 9
+  }
+}

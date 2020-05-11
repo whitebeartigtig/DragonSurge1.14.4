@@ -1,0 +1,42 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "1": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "2": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "3": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "4": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "5": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "6": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "7": {
+      "item": "dragonsurge:darkdragongem"
+    },
+    "8": {
+      "item": "dragonsurge:darkdragongem"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:darkdragonoreblock",
+    "count": 1
+  }
+}

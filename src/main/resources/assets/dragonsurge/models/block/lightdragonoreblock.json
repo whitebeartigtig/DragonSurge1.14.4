@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dragonsurge:blocks/lightdragon_ore_block",
+    "particle": "dragonsurge:blocks/lightdragon_ore_block"
+  }
+}

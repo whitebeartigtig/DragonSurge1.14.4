@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dragonsurge:blocks/blue_ore",
+    "particle": "dragonsurge:blocks/blue_ore"
+  }
+}
