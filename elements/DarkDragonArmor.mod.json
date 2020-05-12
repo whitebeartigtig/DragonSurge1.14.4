@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "darkdragon_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "armorTextureFile": "darkdragon",
     "helmetName": "DarkDragon Helmet",

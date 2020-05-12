@@ -21,12 +21,21 @@
     "enablePortal": true,
     "biomesInDimension": [
       {
-        "value": "plains"
+        "value": "forest"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "CUSTOM:TEST"
       }
     ],
     "worldGenType": "End like gen",
     "mainFillerBlock": {
-      "value": "Blocks.GRASS"
+      "value": "CUSTOM:Lightdragonsurgegrass"
     },
     "secondaryFillerBlock": {
       "value": "CUSTOM:BlueOre"

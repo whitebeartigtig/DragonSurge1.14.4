@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Yellow Pickaxe",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 3,

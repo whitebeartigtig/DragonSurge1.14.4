@@ -74,6 +74,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.dragonsurge.item.LightDragonSurgeItem;
+import net.mcreator.dragonsurge.block.LightdragonsurgegrassBlock;
 import net.mcreator.dragonsurge.block.LightDragonOreBlockBlock;
 import net.mcreator.dragonsurge.block.CrudeOilBlock;
 import net.mcreator.dragonsurge.DragonSurgeElements;
@@ -124,7 +125,10 @@ public class LightDragonSurgeDimension extends DragonSurgeElements.ModElement {
 
 	@Override
 	public void init(FMLCommonSetupEvent event) {
-		dimensionBiomes = new Biome[]{ForgeRegistries.BIOMES.getValue(new ResourceLocation("plains")),};
+		dimensionBiomes = new Biome[]{ForgeRegistries.BIOMES.getValue(new ResourceLocation("forest")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("mountains")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("deep_frozen_ocean")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("dragonsurge:test")),};
 	}
 
 	@Override
@@ -764,7 +768,7 @@ public class LightDragonSurgeDimension extends DragonSurgeElements.ModElement {
 		public ChunkProviderModded(IWorld world, BiomeProvider provider) {
 			super(world, provider, new EndGenerationSettings() {
 				public BlockState getDefaultBlock() {
-					return Blocks.GRASS_BLOCK.getDefaultState();
+					return LightdragonsurgegrassBlock.block.getDefaultState();
 				}
 
 				public BlockState getDefaultFluid() {

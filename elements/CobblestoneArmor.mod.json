@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "cobblestone_head",
+    "enableBody": true,
+    "textureBody": "cobblestone_body",
+    "enableLeggings": true,
+    "textureLeggings": "cobblestone_leggings",
+    "enableBoots": true,
+    "textureBoots": "cobblestone_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "cobblestone",
+    "helmetName": "Cobblestone Helmet",
+    "bodyName": "Cobblestone Chestplate",
+    "leggingsName": "Cobblestone Leggings",
+    "bootsName": "Cobblestone Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 8,
+    "damageValueHelmet": 1,
+    "damageValueBody": 3,
+    "damageValueLeggings": 3,
+    "damageValueBoots": 1,
+    "enchantability": 5,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

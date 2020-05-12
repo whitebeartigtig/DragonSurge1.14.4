@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "dragonsurge:blocks/s",
-    "up": "dragonsurge:blocks/s",
-    "north": "dragonsurge:blocks/s",
-    "east": "dragonsurge:blocks/s",
-    "south": "dragonsurge:blocks/s",
-    "west": "dragonsurge:blocks/s",
-    "particle": "dragonsurge:blocks/s"
+    "down": "dragonsurge:blocks/blue_ore",
+    "up": "dragonsurge:blocks/blue_ore",
+    "north": "dragonsurge:blocks/blue_ore",
+    "east": "dragonsurge:blocks/blue_ore",
+    "south": "dragonsurge:blocks/blue_ore",
+    "west": "dragonsurge:blocks/blue_ore",
+    "particle": "dragonsurge:blocks/blue_ore"
   }
 }

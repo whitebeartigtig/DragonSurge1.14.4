@@ -1,0 +1,20 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:coal"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:darkdragonsurge",
+    "count": 1
+  }
+}

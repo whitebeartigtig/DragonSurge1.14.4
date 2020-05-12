@@ -74,6 +74,7 @@ import net.minecraft.block.Block;
 
 import net.mcreator.dragonsurge.item.DarkDragonSurgeItem;
 import net.mcreator.dragonsurge.block.DarkGrassBlock;
+import net.mcreator.dragonsurge.block.DarkDragonOreBlockBlock;
 import net.mcreator.dragonsurge.block.CrudeOilBlock;
 import net.mcreator.dragonsurge.DragonSurgeElements;
 
@@ -335,13 +336,13 @@ public class DarkDragonSurgeDimension extends DragonSurgeElements.ModElement {
 				int i;
 				for (i = 0; i < 22; ++i) {
 					BlockPos blockpos = p_180120_1_.offset(p_180120_2_, i);
-					if (!this.func_196900_a(this.world.getBlockState(blockpos))
-							|| !(this.world.getBlockState(blockpos.down()).getBlock() == Blocks.COAL_BLOCK.getDefaultState().getBlock())) {
+					if (!this.func_196900_a(this.world.getBlockState(blockpos)) || !(this.world.getBlockState(blockpos.down())
+							.getBlock() == DarkDragonOreBlockBlock.block.getDefaultState().getBlock())) {
 						break;
 					}
 				}
 				BlockPos framePos = p_180120_1_.offset(p_180120_2_, i);
-				return (this.world.getBlockState(framePos).getBlock() == Blocks.COAL_BLOCK.getDefaultState().getBlock()) ? i : 0;
+				return (this.world.getBlockState(framePos).getBlock() == DarkDragonOreBlockBlock.block.getDefaultState().getBlock()) ? i : 0;
 			}
 
 			public int getHeight() {
@@ -366,12 +367,12 @@ public class DarkDragonSurgeDimension extends DragonSurgeElements.ModElement {
 						}
 						if (i == 0) {
 							BlockPos framePos = blockpos.offset(this.leftDir);
-							if (!(this.world.getBlockState(framePos).getBlock() == Blocks.COAL_BLOCK.getDefaultState().getBlock())) {
+							if (!(this.world.getBlockState(framePos).getBlock() == DarkDragonOreBlockBlock.block.getDefaultState().getBlock())) {
 								break label56;
 							}
 						} else if (i == this.width - 1) {
 							BlockPos framePos = blockpos.offset(this.rightDir);
-							if (!(this.world.getBlockState(framePos).getBlock() == Blocks.COAL_BLOCK.getDefaultState().getBlock())) {
+							if (!(this.world.getBlockState(framePos).getBlock() == DarkDragonOreBlockBlock.block.getDefaultState().getBlock())) {
 								break label56;
 							}
 						}
@@ -379,7 +380,7 @@ public class DarkDragonSurgeDimension extends DragonSurgeElements.ModElement {
 				}
 				for (int j = 0; j < this.width; ++j) {
 					BlockPos framePos = this.bottomLeft.offset(this.rightDir, j).up(this.height);
-					if (!(this.world.getBlockState(framePos).getBlock() == Blocks.COAL_BLOCK.getDefaultState().getBlock())) {
+					if (!(this.world.getBlockState(framePos).getBlock() == DarkDragonOreBlockBlock.block.getDefaultState().getBlock())) {
 						this.height = 0;
 						break;
 					}
@@ -557,7 +558,9 @@ public class DarkDragonSurgeDimension extends DragonSurgeElements.ModElement {
 							boolean flag = i9 < 0;
 							blockpos$mutableblockpos.setPos(l9, j10, l10);
 							this.world.setBlockState(blockpos$mutableblockpos,
-									flag ? Blocks.COAL_BLOCK.getDefaultState().getBlock().getDefaultState() : Blocks.AIR.getDefaultState());
+									flag
+											? DarkDragonOreBlockBlock.block.getDefaultState().getBlock().getDefaultState()
+											: Blocks.AIR.getDefaultState());
 						}
 					}
 				}
@@ -566,7 +569,8 @@ public class DarkDragonSurgeDimension extends DragonSurgeElements.ModElement {
 				for (int j8 = -1; j8 < 4; ++j8) {
 					if (k7 == -1 || k7 == 2 || j8 == -1 || j8 == 3) {
 						blockpos$mutableblockpos.setPos(i6 + k7 * l6, k2 + j8, k6 + k7 * i3);
-						this.world.setBlockState(blockpos$mutableblockpos, Blocks.COAL_BLOCK.getDefaultState().getBlock().getDefaultState(), 3);
+						this.world.setBlockState(blockpos$mutableblockpos,
+								DarkDragonOreBlockBlock.block.getDefaultState().getBlock().getDefaultState(), 3);
 					}
 				}
 			}

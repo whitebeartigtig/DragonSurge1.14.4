@@ -6,12 +6,12 @@
     "name": "Test Disk",
     "description": "This is a test",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "music": {
       "value": "CUSTOM:testmusic1"
     },
     "specialInfo": [],
-    "hasGlow": false
+    "hasGlow": true
   }
 }

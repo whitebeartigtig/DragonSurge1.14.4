@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Dirt Shovel",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "toolType": "Spade",
     "harvestLevel": 0,

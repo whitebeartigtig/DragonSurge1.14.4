@@ -2,12 +2,12 @@
   "_fv": 6,
   "_type": "block",
   "definition": {
-    "texture": "s",
-    "textureTop": "s",
-    "textureLeft": "s",
-    "textureFront": "s",
-    "textureRight": "s",
-    "textureBack": "s",
+    "texture": "blue_ore",
+    "textureTop": "blue_ore",
+    "textureLeft": "blue_ore",
+    "textureFront": "blue_ore",
+    "textureRight": "blue_ore",
+    "textureBack": "blue_ore",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,7 +20,7 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Red",
+    "name": "Fools's Blue Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -31,7 +31,7 @@
     "destroyTool": "Not specified",
     "affectedBySilkTouch": true,
     "customDrop": {
-      "value": ""
+      "value": "Blocks.DIRT#0"
     },
     "dropAmount": 1,
     "isBeaconBase": false,

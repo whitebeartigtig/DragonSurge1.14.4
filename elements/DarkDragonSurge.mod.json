@@ -3,7 +3,7 @@
   "_type": "dimension",
   "definition": {
     "portalFrame": {
-      "value": "Blocks.COAL_BLOCK"
+      "value": "CUSTOM:DarkDragonOreBlock"
     },
     "portalParticles": {
       "value": "PORTAL"
@@ -14,9 +14,9 @@
     },
     "igniterName": "Dark Dragon Surge Portal Igniter",
     "igniterTab": {
-      "value": "MISC"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
-    "texture": "wds",
+    "texture": "redstoneandcoal",
     "portalTexture": "s",
     "enablePortal": true,
     "biomesInDimension": [

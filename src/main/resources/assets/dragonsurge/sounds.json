@@ -7,5 +7,14 @@
         "stream": false
       }
     ]
+  },
+  "s": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dragonsurge:6266182911918080_2",
+        "stream": false
+      }
+    ]
   }
 }

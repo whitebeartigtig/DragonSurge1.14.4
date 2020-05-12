@@ -138,14 +138,6 @@
       "ids": {}
     },
     {
-      "name": "Oil",
-      "type": "fuel",
-      "sortid": 31,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "DragonSurge",
       "type": "dimension",
       "sortid": 9,
@@ -295,7 +287,13 @@
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "RubyArmorHelmetRecipe",
@@ -647,7 +645,13 @@
       "sortid": 81,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "DarkDragonArmorHelmetRecipe",
@@ -839,7 +843,13 @@
       "sortid": 105,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "BlueArmorHelmetRecipe",
@@ -1007,7 +1017,13 @@
       "sortid": 126,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "YellowArmorHelmetRecipe",
@@ -1080,6 +1096,220 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Musictest2",
+      "type": "musicdisc",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ThisPlaceIsCool",
+      "type": "achievement",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TEST",
+      "type": "biome",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DragonSurgeStuff",
+      "type": "tab",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LightDragonForestJungle",
+      "type": "biome",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Redstoneandcoal",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobblestoneArmor",
+      "type": "armor",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobblestoneArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobblestoneArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobblestoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobblestoneArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisArmor",
+      "type": "armor",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LapuisArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisPickaxe",
+      "type": "tool",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisAxe",
+      "type": "tool",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisSword",
+      "type": "tool",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisShovel",
+      "type": "tool",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisHoe",
+      "type": "tool",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisAxeRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisSwordRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisShovelRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapuisHoeRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -1088,91 +1318,116 @@
       "name": "testmusic1",
       "file": "6298079553650688_1",
       "category": "master"
+    },
+    {
+      "name": "s",
+      "file": "6266182911918080_2",
+      "category": "master"
     }
   ],
   "language_map": {
     "en_us": {
-      "item.dragonsurge.darkdragonsword": "DarkDragon Sword",
       "item.dragonsurge.yellowaxe": "Yellow Axe",
       "item.dragonsurge.yellowarmorlegs": "Yellow Leggings",
-      "block.dragonsurge.red": "Red",
-      "item.dragonsurge.yellowarmorbody": "Yellow Chestplate",
-      "item.dragonsurge.rubyingot": "Ruby",
+      "item.dragonsurge.musictest2": "Musictest2",
       "item.dragonsurge.rubyarmorbody": "Ruby Chestplate",
-      "block.dragonsurge.darkgrass": "Dark Grass",
-      "item.dragonsurge.rubyarmorlegs": "Ruby Leggings",
-      "item.dragonsurge.lightdragongem": "LightDragon",
       "block.dragonsurge.darkdragonoreblock": "Block of DarkDragon",
-      "block.dragonsurge.yellowore": "Yellow Ore",
       "biome.dragonsurge.tropicalforest": "Tropical Forest",
       "item.dragonsurge.lightdragonshovel": "LightDragon Shovel",
       "item.dragonsurge.dirtarmorhelmet": "Dirt Helmet",
       "item.dragonsurge.lightdragonpickaxe": "LightDragon Pickaxe",
-      "item.dragonsurge.lightdragonhoe": "LightDragon Hoe",
-      "item.dragonsurge.dirthoe": "Dirt Hoe",
+      "item.dragonsurge.cobblestonearmorboots": "Cobblestone Boots",
       "item.dragonsurge.rubyhoe": "Ruby Hoe",
+      "item.dragonsurge.lapuispickaxe": "Lapuis Pickaxe",
       "block.dragonsurge.lightdragonoreblock": "Block of LightDragon",
-      "item.dragonsurge.dirtarmorbody": "Dirt Chestplate",
-      "item.dragonsurge.darkdragonhoe": "DarkDragon Hoe",
       "block.dragonsurge.yelloworeblock": "Block of Yellow",
       "item.dragonsurge.darkdragonarmorlegs": "DarkDragon Leggings",
       "block.dragonsurge.rubyoreblock": "Block of Ruby",
       "item.dragonsurge.dirtarmorboots": "Dirt Boots",
       "item.dragonsurge.dirtshovel": "Dirt Shovel",
       "item.dragonsurge.darkdragonarmorhelmet": "DarkDragon Helmet",
-      "item.dragonsurge.lightdragonarmorbody": "LightDragon Chestplate",
-      "block.dragonsurge.blueoreblock": "Block of Blue",
       "block.dragonsurge.blueore": "Blue Ore",
       "item.dragonsurge.blueaxe": "Blue Axe",
       "block.dragonsurge.lightdragonsurgegrass": "Lightdragonsurgegrass",
-      "item.dragonsurge.darkdragonarmorbody": "DarkDragon Chestplate",
       "item.dragonsurge.darkdragonarmorboots": "DarkDragon Boots",
-      "item.dragonsurge.lightdragonarmorboots": "LightDragon Boots",
       "item.dragonsurge.yellowhoe": "Yellow Hoe",
-      "item.dragonsurge.darkdragonsurge": "Dark Dragon Surge Portal Igniter",
-      "item.dragonsurge.lightdragonarmorhelmet": "LightDragon Helmet",
+      "item.dragonsurge.lapuisaxe": "Lapuis Axe",
       "item.dragonsurge.bluepickaxe": "Blue Pickaxe",
-      "item.dragonsurge.bluearmorhelmet": "Blue Helmet",
       "item.dragonsurge.lightdragonarmorlegs": "LightDragon Leggings",
-      "item.dragonsurge.bluesword": "Blue Sword",
       "item.dragonsurge.rifle": "Rifle",
-      "item.dragonsurge.blueshovel": "Blue Shovel",
-      "item.dragonsurge.darkdragongem": "DarkDragon",
       "item.dragonsurge.dirtarmorlegs": "Dirt Leggings",
-      "fluid.crudeoil": "CrudeOil",
       "item.dragonsurge.bluearmorlegs": "Blue Leggings",
       "item.dragonsurge.yellowsword": "Yellow Sword",
       "item.dragonsurge.dirtpickaxe": "Dirt Pickaxe",
       "item.dragonsurge.darkdragonshovel": "DarkDragon Shovel",
+      "item.dragonsurge.cobblestonearmorhelmet": "Cobblestone Helmet",
+      "item.dragonsurge.lightdragonaxe": "LightDragon Axe",
+      "item.dragonsurge.dirtaxe": "Dirt Axe",
+      "item.dragonsurge.cobblestonearmorlegs": "Cobblestone Leggings",
+      "item.dragonsurge.rubypickaxe": "Ruby Pickaxe",
+      "item.dragonsurge.bluehoe": "Blue Hoe",
+      "item.dragonsurge.lapuisarmorbody": "Lapuis Chestplate",
+      "item.dragonsurge.dragonsurge": "Dragon Surge Portal Igniter",
+      "item.dragonsurge.bluegem": "Blue",
+      "advancements.thisplaceiscool.title": "This Place Is Cool",
+      "item.dragonsurge.rubyaxe": "Ruby Axe",
+      "item.dragonsurge.dirtsword": "Dirt Sword",
+      "item.dragonsurge.lapuisshovel": "Lapuis Shovel",
+      "item.dragonsurge.testdisk.desc": "This is a test",
+      "item.dragonsurge.rubyarmorboots": "Ruby Boots",
+      "item.dragonsurge.rubysword": "Ruby Sword",
+      "item.dragonsurge.rubyshovel": "Ruby Shovel",
+      "item.dragonsurge.darkdragonsword": "DarkDragon Sword",
+      "block.dragonsurge.red": "Fools\u0027s Blue Ore",
+      "item.dragonsurge.yellowarmorbody": "Yellow Chestplate",
+      "item.dragonsurge.rubyingot": "Ruby",
+      "block.dragonsurge.darkgrass": "Dark Grass",
+      "item.dragonsurge.rubyarmorlegs": "Ruby Leggings",
+      "biome.dragonsurge.test": "TEST",
+      "item.dragonsurge.lightdragongem": "LightDragon",
+      "block.dragonsurge.yellowore": "Yellow Ore",
+      "item.dragonsurge.lightdragonhoe": "LightDragon Hoe",
+      "item.dragonsurge.dirthoe": "Dirt Hoe",
+      "item.dragonsurge.dirtarmorbody": "Dirt Chestplate",
+      "item.dragonsurge.darkdragonhoe": "DarkDragon Hoe",
+      "item.dragonsurge.lightdragonarmorbody": "LightDragon Chestplate",
+      "itemGroup.tabdragonsurgestuff": "Dragon Surge Stuff",
+      "block.dragonsurge.blueoreblock": "Block of Blue",
+      "item.dragonsurge.darkdragonarmorbody": "DarkDragon Chestplate",
+      "item.dragonsurge.lightdragonarmorboots": "LightDragon Boots",
+      "item.dragonsurge.darkdragonsurge": "Dark Dragon Surge Portal Igniter",
+      "item.dragonsurge.cobblestonearmorbody": "Cobblestone Chestplate",
+      "item.dragonsurge.lightdragonarmorhelmet": "LightDragon Helmet",
+      "biome.dragonsurge.lightdragonforestjungle": "Light Dragon Forest Jungle",
+      "item.dragonsurge.bluearmorhelmet": "Blue Helmet",
+      "advancements.thisplaceiscool.descr": "cool",
+      "item.dragonsurge.bluesword": "Blue Sword",
+      "item.dragonsurge.blueshovel": "Blue Shovel",
+      "item.dragonsurge.darkdragongem": "DarkDragon",
+      "fluid.crudeoil": "CrudeOil",
       "item.dragonsurge.yellowgem": "Yellow",
+      "item.dragonsurge.lapuisarmorboots": "Lapuis Boots",
       "item.dragonsurge.darkdragonpickaxe": "DarkDragon Pickaxe",
       "block.dragonsurge.lightdragonore": "LightDragon Ore",
       "item.dragonsurge.bluearmorboots": "Blue Boots",
       "item.dragonsurge.bluearmorbody": "Blue Chestplate",
       "item.dragonsurge.crudeoil_bucket": "CrudeOil Bucket",
-      "item.dragonsurge.lightdragonaxe": "LightDragon Axe",
-      "item.dragonsurge.dirtaxe": "Dirt Axe",
+      "item.dragonsurge.lapuissword": "Lapuis Sword",
       "item.dragonsurge.lightdragonsurge": "Light Dragon Surge Portal Igniter",
       "block.dragonsurge.darkdragonore": "DarkDragon Ore",
       "item.dragonsurge.rubyarmorhelmet": "Ruby Helmet",
-      "item.dragonsurge.rubypickaxe": "Ruby Pickaxe",
-      "item.dragonsurge.bluehoe": "Blue Hoe",
+      "item.dragonsurge.lapuishoe": "Lapuis Hoe",
       "block.dragonsurge.rubyore": "Ruby Ore",
       "item.dragonsurge.yellowpickaxe": "Yellow Pickaxe",
       "item.dragonsurge.lightdragonsword": "LightDragon Sword",
-      "item.dragonsurge.dragonsurge": "Dragon Surge Portal Igniter",
       "item.dragonsurge.testdisk": "Test Disk",
-      "item.dragonsurge.bluegem": "Blue",
-      "item.dragonsurge.rubyaxe": "Ruby Axe",
       "item.dragonsurge.yellowshovel": "Yellow Shovel",
-      "item.dragonsurge.dirtsword": "Dirt Sword",
+      "item.dragonsurge.musictest2.desc": "music test",
       "item.dragonsurge.yellowarmorboots": "Yellow Boots",
       "item.dragonsurge.darkdragonaxe": "DarkDragon Axe",
-      "item.dragonsurge.testdisk.desc": "This is a test",
-      "item.dragonsurge.rubyarmorboots": "Ruby Boots",
+      "item.dragonsurge.lapuisarmorhelmet": "Lapuis Helmet",
       "item.dragonsurge.yellowarmorhelmet": "Yellow Helmet",
-      "item.dragonsurge.rubysword": "Ruby Sword",
-      "item.dragonsurge.rubyshovel": "Ruby Shovel",
+      "item.dragonsurge.lapuisarmorlegs": "Lapuis Leggings",
       "item.dragonsurge.thing": "Thing"
     }
   },

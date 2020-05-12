@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ruby_ingot",
+    "name": "Musictest2",
+    "description": "music test",
+    "creativeTab": {
+      "value": "CUSTOM:DragonSurgeStuff"
+    },
+    "music": {
+      "value": "CUSTOM:s"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

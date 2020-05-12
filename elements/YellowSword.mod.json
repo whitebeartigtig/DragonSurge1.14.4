@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Yellow Sword",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "toolType": "Sword",
     "harvestLevel": 3,
