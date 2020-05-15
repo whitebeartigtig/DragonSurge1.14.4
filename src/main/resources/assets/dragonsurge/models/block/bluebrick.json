@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragonsurge:blocks/lue_ungeon_rick",
+    "up": "dragonsurge:blocks/lue_ungeon_rick",
+    "north": "dragonsurge:blocks/lue_ungeon_rick",
+    "east": "dragonsurge:blocks/lue_ungeon_rick",
+    "south": "dragonsurge:blocks/lue_ungeon_rick",
+    "west": "dragonsurge:blocks/lue_ungeon_rick",
+    "particle": "dragonsurge:blocks/lue_ungeon_rick"
+  }
+}

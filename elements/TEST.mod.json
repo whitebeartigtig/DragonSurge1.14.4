@@ -10,21 +10,21 @@
       "value": "CUSTOM:YellowOre"
     },
     "generateLakes": true,
-    "treeType": 0,
+    "treeType": 1,
     "vanillaTreeType": "Default",
     "minHeight": 7,
     "spawnVines": false,
     "treeVines": {
-      "value": ""
+      "value": "Blocks.VINE"
     },
     "treeStem": {
-      "value": ""
+      "value": "Blocks.LOG#3"
     },
     "treeBranch": {
-      "value": ""
+      "value": "Blocks.LEAVES2#1"
     },
     "treeFruits": {
-      "value": ""
+      "value": "Blocks.COCOA"
     },
     "customColors": false,
     "airColor": {

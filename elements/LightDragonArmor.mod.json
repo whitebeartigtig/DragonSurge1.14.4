@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "lightdragon_boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "armorTextureFile": "lightdragon",
     "helmetName": "LightDragon Helmet",

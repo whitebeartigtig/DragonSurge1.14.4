@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragonsurge:blocks/x",
+    "up": "dragonsurge:blocks/x",
+    "north": "dragonsurge:blocks/x",
+    "east": "dragonsurge:blocks/x",
+    "south": "dragonsurge:blocks/x",
+    "west": "dragonsurge:blocks/x",
+    "particle": "dragonsurge:blocks/x"
+  }
+}

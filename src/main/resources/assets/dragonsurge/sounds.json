@@ -16,5 +16,14 @@
         "stream": false
       }
     ]
+  },
+  "garycomeplz": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "dragonsurge:pongebob_quarepants_-_ary_ome_ome",
+        "stream": false
+      }
+    ]
   }
 }

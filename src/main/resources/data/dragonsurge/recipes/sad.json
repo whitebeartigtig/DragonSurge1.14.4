@@ -1,0 +1,29 @@
+{
+  "group": "dragonsurge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:water_bucket"
+    },
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "minecraft:water_bucket"
+    },
+    "3": {
+      "item": "minecraft:water_bucket"
+    },
+    "5": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "dragonsurge:dontplaythis",
+    "count": 1
+  }
+}

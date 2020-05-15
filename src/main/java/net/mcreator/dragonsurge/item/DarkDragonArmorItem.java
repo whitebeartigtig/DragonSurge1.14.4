@@ -40,7 +40,7 @@ public class DarkDragonArmorItem extends DragonSurgeElements.ModElement {
 			}
 
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{3, 10, 9, 3}[slot.getIndex()];
+				return new int[]{11, 18, 15, 8}[slot.getIndex()];
 			}
 
 			public int getEnchantability() {

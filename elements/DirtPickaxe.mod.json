@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Dirt Pickaxe",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 0,

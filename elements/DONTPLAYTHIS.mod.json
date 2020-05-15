@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ddss",
+    "name": "DONTPLAYTHIS",
+    "description": "DONT PLAY THIS YOU WILL A GET A MDD OR A MDD OR A MDDD",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:garycomeplz"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

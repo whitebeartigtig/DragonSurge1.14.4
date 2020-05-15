@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "DarkDragon Shovel",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "toolType": "Spade",
     "harvestLevel": 3,

@@ -128,7 +128,9 @@ public class LightDragonSurgeDimension extends DragonSurgeElements.ModElement {
 		dimensionBiomes = new Biome[]{ForgeRegistries.BIOMES.getValue(new ResourceLocation("forest")),
 				ForgeRegistries.BIOMES.getValue(new ResourceLocation("mountains")),
 				ForgeRegistries.BIOMES.getValue(new ResourceLocation("deep_frozen_ocean")),
-				ForgeRegistries.BIOMES.getValue(new ResourceLocation("dragonsurge:test")),};
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("dragonsurge:test")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("dragonsurge:tropicalforest")),
+				ForgeRegistries.BIOMES.getValue(new ResourceLocation("dragonsurge:lightdragonforestjungle")),};
 	}
 
 	@Override

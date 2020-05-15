@@ -31,6 +31,12 @@
       },
       {
         "value": "CUSTOM:TEST"
+      },
+      {
+        "value": "CUSTOM:TropicalForest"
+      },
+      {
+        "value": "CUSTOM:LightDragonForestJungle"
       }
     ],
     "worldGenType": "End like gen",

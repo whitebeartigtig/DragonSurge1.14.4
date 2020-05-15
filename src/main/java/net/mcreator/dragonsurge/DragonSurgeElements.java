@@ -51,6 +51,8 @@ public class DragonSurgeElements {
 		sounds.put(new ResourceLocation("dragonsurge", "testmusic1"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("dragonsurge", "testmusic1")));
 		sounds.put(new ResourceLocation("dragonsurge", "s"), new net.minecraft.util.SoundEvent(new ResourceLocation("dragonsurge", "s")));
+		sounds.put(new ResourceLocation("dragonsurge", "garycomeplz"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("dragonsurge", "garycomeplz")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("dragonsurge").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

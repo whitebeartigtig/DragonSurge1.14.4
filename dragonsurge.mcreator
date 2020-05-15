@@ -15,7 +15,13 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "DirtArmorHelmetRecipe",
@@ -477,7 +483,13 @@
       "sortid": 60,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "LightDragonArmorHelmetRecipe",
@@ -1151,7 +1163,13 @@
       "sortid": 142,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "CobblestoneArmorHelmetRecipe",
@@ -1310,6 +1328,78 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "TheSahdowZombie",
+      "type": "mob",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Boss1test",
+      "type": "mob",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Boss1Overworld",
+      "type": "structure",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DONTPLAYTHIS",
+      "type": "musicdisc",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "NameTag",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sad",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TEST2",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TEST1",
+      "type": "structure",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlueBrick",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -1322,6 +1412,11 @@
     {
       "name": "s",
       "file": "6266182911918080_2",
+      "category": "master"
+    },
+    {
+      "name": "garycomeplz",
+      "file": "pongebob_quarepants_-_ary_ome_ome",
       "category": "master"
     }
   ],
@@ -1337,21 +1432,22 @@
       "item.dragonsurge.dirtarmorhelmet": "Dirt Helmet",
       "item.dragonsurge.lightdragonpickaxe": "LightDragon Pickaxe",
       "item.dragonsurge.cobblestonearmorboots": "Cobblestone Boots",
+      "entity.dragonsurge.thesahdowzombie": "The Sahdow Zombie",
       "item.dragonsurge.rubyhoe": "Ruby Hoe",
       "item.dragonsurge.lapuispickaxe": "Lapuis Pickaxe",
       "block.dragonsurge.lightdragonoreblock": "Block of LightDragon",
       "block.dragonsurge.yelloworeblock": "Block of Yellow",
-      "item.dragonsurge.darkdragonarmorlegs": "DarkDragon Leggings",
       "block.dragonsurge.rubyoreblock": "Block of Ruby",
+      "item.dragonsurge.darkdragonarmorlegs": "DarkDragon Leggings",
       "item.dragonsurge.dirtarmorboots": "Dirt Boots",
       "item.dragonsurge.dirtshovel": "Dirt Shovel",
       "item.dragonsurge.darkdragonarmorhelmet": "DarkDragon Helmet",
       "block.dragonsurge.blueore": "Blue Ore",
       "item.dragonsurge.blueaxe": "Blue Axe",
       "block.dragonsurge.lightdragonsurgegrass": "Lightdragonsurgegrass",
-      "item.dragonsurge.darkdragonarmorboots": "DarkDragon Boots",
-      "item.dragonsurge.yellowhoe": "Yellow Hoe",
       "item.dragonsurge.lapuisaxe": "Lapuis Axe",
+      "item.dragonsurge.yellowhoe": "Yellow Hoe",
+      "item.dragonsurge.darkdragonarmorboots": "DarkDragon Boots",
       "item.dragonsurge.bluepickaxe": "Blue Pickaxe",
       "item.dragonsurge.lightdragonarmorlegs": "LightDragon Leggings",
       "item.dragonsurge.rifle": "Rifle",
@@ -1361,12 +1457,15 @@
       "item.dragonsurge.dirtpickaxe": "Dirt Pickaxe",
       "item.dragonsurge.darkdragonshovel": "DarkDragon Shovel",
       "item.dragonsurge.cobblestonearmorhelmet": "Cobblestone Helmet",
+      "entity.dragonsurge.boss1test": "Boss1test",
       "item.dragonsurge.lightdragonaxe": "LightDragon Axe",
       "item.dragonsurge.dirtaxe": "Dirt Axe",
       "item.dragonsurge.cobblestonearmorlegs": "Cobblestone Leggings",
+      "item.dragonsurge.thesahdowzombie": "The Sahdow Zombie Spawn Egg",
       "item.dragonsurge.rubypickaxe": "Ruby Pickaxe",
       "item.dragonsurge.bluehoe": "Blue Hoe",
       "item.dragonsurge.lapuisarmorbody": "Lapuis Chestplate",
+      "item.dragonsurge.dontplaythis": "DONTPLAYTHIS",
       "item.dragonsurge.dragonsurge": "Dragon Surge Portal Igniter",
       "item.dragonsurge.bluegem": "Blue",
       "advancements.thisplaceiscool.title": "This Place Is Cool",
@@ -1386,6 +1485,7 @@
       "biome.dragonsurge.test": "TEST",
       "item.dragonsurge.lightdragongem": "LightDragon",
       "block.dragonsurge.yellowore": "Yellow Ore",
+      "item.dragonsurge.dontplaythis.desc": "DONT PLAY THIS YOU WILL A GET A MDD OR A MDD OR A MDDD",
       "item.dragonsurge.lightdragonhoe": "LightDragon Hoe",
       "item.dragonsurge.dirthoe": "Dirt Hoe",
       "item.dragonsurge.dirtarmorbody": "Dirt Chestplate",
@@ -1393,6 +1493,7 @@
       "item.dragonsurge.lightdragonarmorbody": "LightDragon Chestplate",
       "itemGroup.tabdragonsurgestuff": "Dragon Surge Stuff",
       "block.dragonsurge.blueoreblock": "Block of Blue",
+      "block.dragonsurge.bluebrick": "Blue Brick",
       "item.dragonsurge.darkdragonarmorbody": "DarkDragon Chestplate",
       "item.dragonsurge.lightdragonarmorboots": "LightDragon Boots",
       "item.dragonsurge.darkdragonsurge": "Dark Dragon Surge Portal Igniter",
@@ -1416,11 +1517,13 @@
       "item.dragonsurge.lightdragonsurge": "Light Dragon Surge Portal Igniter",
       "block.dragonsurge.darkdragonore": "DarkDragon Ore",
       "item.dragonsurge.rubyarmorhelmet": "Ruby Helmet",
+      "block.dragonsurge.test2": "TEST2",
       "item.dragonsurge.lapuishoe": "Lapuis Hoe",
       "block.dragonsurge.rubyore": "Ruby Ore",
       "item.dragonsurge.yellowpickaxe": "Yellow Pickaxe",
       "item.dragonsurge.lightdragonsword": "LightDragon Sword",
       "item.dragonsurge.testdisk": "Test Disk",
+      "item.dragonsurge.boss1test": "Boss1test Spawn Egg",
       "item.dragonsurge.yellowshovel": "Yellow Shovel",
       "item.dragonsurge.musictest2.desc": "music test",
       "item.dragonsurge.yellowarmorboots": "Yellow Boots",

@@ -7,14 +7,14 @@
     "customModelName": "Normal",
     "name": "DarkDragon Pickaxe",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:DragonSurgeStuff"
     },
     "toolType": "Pickaxe",
-    "harvestLevel": 3,
-    "efficiency": 8.0,
-    "attackSpeed": 1.0,
+    "harvestLevel": 17,
+    "efficiency": 17.5,
+    "attackSpeed": 1.6,
     "enchantability": 24,
-    "damageVsEntity": 3.0,
+    "damageVsEntity": 17.6,
     "usageCount": 525,
     "blocksAffected": [],
     "hasGlow": false,
